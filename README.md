@@ -1,1 +1,1 @@
-# giphy-api-practice-using-js
+# GIFs fetched using Giphy Api using javascript
